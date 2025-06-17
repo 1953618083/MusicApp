@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Azure">#F0FFFF</color>
+    <color name="Black">#000000</color>
+    <color name="Blue">#3C8DC4</color>
+    <color name="CadetBlue">#5F9EA0</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="DarkBlue">#00008B</color>
+    <color name="DarkCyan">#008B8B</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="Gray">#808080</color>
+    <color name="Green">#008000</color>
+    <color name="LightCyan">#E1FFFF</color>
+    <color name="SpringGreen">#3CB371</color>
+    <color name="White">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#2e82ff</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="gray">#7e868f</color>
+    <string name="app_name">音乐播放器</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
+    <string name="navigation_drawer_open">打开导航抽屉</string>
+    <string name="search_hint">搜索音乐...</string>
+    <style name="Base.Theme.MusicAPPDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="materialButtonOutlinedStyle">@style/MyButtonStyle</item>
+        <item name="materialButtonStyle">@style/MyButtonStyle</item>
+    </style>
+    <style name="MyButtonStyle" parent="">
+        
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+    <declare-styleable name="Indicator">
+        <attr format="color|reference" name="color"/>
+        <attr format="dimension|reference" name="height"/>
+    </declare-styleable>
+    <declare-styleable name="Lrc">
+        <attr name="android:textSize"/>
+        <attr format="reference|color" name="normalTextColor"/>
+        <attr format="reference|color" name="currentTextColor"/>
+        <attr format="dimension|reference" name="dividerHeight"/>
+        <attr format="integer" name="rows"/>
+    </declare-styleable>
+</resources>

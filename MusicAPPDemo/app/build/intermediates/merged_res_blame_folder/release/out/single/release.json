@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_zhangjie.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\zhangjie.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_activity_play_history.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\activity_play_history.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_zhoujielun.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\zhoujielun.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_lironghao.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\lironghao.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_linjunjie.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\linjunjie.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_search_background.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\search_background.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_settings.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_arrow_right_normal.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\arrow_right_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_fragment_user_info_page.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\fragment_user_info_page.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_music0.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\music0.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_music_bg.jpg.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\music_bg.jpg"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_liuruoying.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\liuruoying.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_more_vert.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_more_vert.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_play_progressbar.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\play_progressbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_home.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_xusong.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\xusong.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_item_play_history.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\item_play_history.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_fragment_recommend.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\fragment_recommend.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_recommend_icon.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\recommend_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_progress_thumb.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\progress_thumb.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_activity_music.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\activity_music.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_btn_exit.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\btn_exit.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_item_music.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\item_music.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_love_clicked.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\love_clicked.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\xml_network_security_config.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\raw_music1.mp3.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\raw\\music1.mp3"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_song_classify.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\song_classify.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_play_page_selected.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\play_page_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_zhoushen.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\zhoushen.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_music6.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\music6.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_fragment_user_info.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\fragment_user_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_btn_back.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\btn_back.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_work_background.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\work_background.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_nav_header.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_xuezhiqian.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\xuezhiqian.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_logout_btn.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\logout_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_login_register_btn.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\login_register_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_song_enter.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\song_enter.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_player_btn_next_normal.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\player_btn_next_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_button_style.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\button_style.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\raw_music0.mp3.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\raw\\music0.mp3"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_item_recommend.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\item_recommend.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_music_icon.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\music_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_play_mode_normal.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_play_mode_normal.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_play_pager_item_2.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\play_pager_item_2.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_success_background.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\success_background.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_info.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_item_singergrid_classify.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\item_singergrid_classify.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\raw_music3.mp3.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\raw\\music3.mp3"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_activity_search_result.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\activity_search_result.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_music5.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\music5.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_dzh.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\dzh.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_activity_register.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_menu.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_activity_singer_desc.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\activity_singer_desc.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\raw_music6.mp3.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\raw\\music6.mp3"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_icon_app.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\icon_app.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_play_activity_progressbar.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\play_activity_progressbar.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_fragment_app_info.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\fragment_app_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_pre.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\pre.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_login_register_view.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\login_register_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_menu_text.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\menu_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_music_placeholder.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_music_placeholder.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_age.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\age.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_love.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\love.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_music3.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\music3.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_player_btn_pause_normal.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\player_btn_pause_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_history.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_music_note.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_music_note.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\raw_music5.mp3.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\raw\\music5.mp3"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_song.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\song.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_play_pager_item_1.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\play_pager_item_1.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_password.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\password.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_pause.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\pause.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_user_icon.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_player_btn_play_normal.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\player_btn_play_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_collect.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\collect.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_button_shape.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_singer_page.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\singer_page.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_collect_clicked.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\collect_clicked.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_item_gridbg.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\item_gridbg.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_item_singergrid.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\item_singergrid.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_favorite.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_user.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_name.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\name.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_music2.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\music2.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_chenyixun.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\chenyixun.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\raw_music4.mp3.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\raw\\music4.mp3"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_text_style.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\text_style.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_user.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_hide.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\hide.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_icon.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_music1.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\music1.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_fragment_song_love.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\fragment_song_love.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_next.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\next.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_play_page_unselected.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\play_page_unselected.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_sex.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\sex.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\menu_main_menu.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "com.example.musicappdemo.app-merged_res-4:/layout_fragment_user_info_page.xml.flat",
+        "source": "com.example.musicappdemo.app-main-5:/layout/fragment_user_info_page.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_huachenyu.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\huachenyu.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_fragment_user_page.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\fragment_user_page.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_play_mode_single.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_play_mode_single.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_music4.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\music4.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_singer.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\singer.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_item_search_result.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\item_search_result.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_cd_center.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\cd_center.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_music_list.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\music_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_play_mode_random.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_play_mode_random.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_zhoubichang.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\zhoubichang.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_player_btn_pre_normal.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\player_btn_pre_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\menu_nav_menu.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_edit_style.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\edit_style.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_tubiao.jpg.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\tubiao.jpg"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\mipmap-hdpi_dengziqi.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\mipmap-hdpi\\dengziqi.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_activity_login.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_play.png.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\play.png"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\raw_music2.mp3.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\raw\\music2.mp3"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\layout_item_love_music.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\layout\\item_love_music.xml"
+    },
+    {
+        "merged": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-merged_res-4:\\drawable_ic_search.xml.flat",
+        "source": "E:\\Android\\gradle-7.4\\daemon\\8.2\\com.example.musicappdemo.app-main-5:\\drawable\\ic_search.xml"
+    }
+]

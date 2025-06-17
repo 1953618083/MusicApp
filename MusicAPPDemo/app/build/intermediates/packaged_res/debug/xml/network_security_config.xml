@@ -1,0 +1,4 @@
+<network-security-config>
+    <!--禁止掉明文流量请求的检查-->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

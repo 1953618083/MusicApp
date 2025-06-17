@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a01217dd-dcbd-446a-ba31-723d4e38ad69" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tWDPyLNwdDS8ALn99obF7FLDnd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP 请求.generated-requests | #2.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.musicAdminDemo [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MusicApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.MusicDemo.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/project/qq-music-api/qq-music-api-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora_aws&quot;
+    ]
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="HttpClient.HttpRequestRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MusicDemo">
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="MusicDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="musicAdminDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.music.MusicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP 请求.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a01217dd-dcbd-446a-ba31-723d4e38ad69" name="更改" comment="" />
+      <created>1740458917341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740458917341</updated>
+      <workItem from="1740458918416" duration="1244000" />
+      <workItem from="1740470285107" duration="230000" />
+      <workItem from="1740471595486" duration="132000" />
+      <workItem from="1741670845315" duration="531000" />
+      <workItem from="1741755483405" duration="5217000" />
+      <workItem from="1741831214170" duration="1188000" />
+      <workItem from="1742870761266" duration="5138000" />
+      <workItem from="1742876109908" duration="2741000" />
+      <workItem from="1742881408070" duration="2118000" />
+      <workItem from="1742884144722" duration="697000" />
+      <workItem from="1742885084038" duration="814000" />
+      <workItem from="1742887867912" duration="1443000" />
+      <workItem from="1742890067336" duration="1139000" />
+      <workItem from="1742894652455" duration="1251000" />
+      <workItem from="1742897212143" duration="682000" />
+      <workItem from="1742910206454" duration="359000" />
+      <workItem from="1742960338660" duration="343000" />
+      <workItem from="1742970229362" duration="1209000" />
+      <workItem from="1743239819212" duration="806000" />
+      <workItem from="1743479115878" duration="606000" />
+      <workItem from="1743490783521" duration="2103000" />
+      <workItem from="1743516542491" duration="723000" />
+      <workItem from="1743581094971" duration="628000" />
+      <workItem from="1744002488449" duration="7106000" />
+      <workItem from="1744082612306" duration="1261000" />
+      <workItem from="1744098715951" duration="718000" />
+      <workItem from="1744115568578" duration="9094000" />
+      <workItem from="1744173204757" duration="2431000" />
+      <workItem from="1744613771011" duration="1746000" />
+      <workItem from="1744615893054" duration="2687000" />
+      <workItem from="1744620357589" duration="2510000" />
+      <workItem from="1744623580966" duration="1546000" />
+      <workItem from="1744625356475" duration="1186000" />
+      <workItem from="1744701250540" duration="2128000" />
+      <workItem from="1745316032479" duration="1292000" />
+      <workItem from="1745389213590" duration="3451000" />
+      <workItem from="1746001453117" duration="612000" />
+      <workItem from="1746346579025" duration="1431000" />
+      <workItem from="1747292003351" duration="188000" />
+      <workItem from="1747294856878" duration="2284000" />
+      <workItem from="1747302347405" duration="501000" />
+      <workItem from="1747304190231" duration="520000" />
+      <workItem from="1747305853325" duration="599000" />
+      <workItem from="1747306859439" duration="2322000" />
+      <workItem from="1747309908635" duration="2443000" />
+      <workItem from="1747312624025" duration="1003000" />
+      <workItem from="1747313952850" duration="728000" />
+      <workItem from="1747315636039" duration="601000" />
+      <workItem from="1747317916682" duration="1088000" />
+      <workItem from="1747382310573" duration="5916000" />
+      <workItem from="1747396775803" duration="303000" />
+      <workItem from="1747399411911" duration="1013000" />
+      <workItem from="1747451230555" duration="1836000" />
+      <workItem from="1747462311876" duration="1807000" />
+      <workItem from="1747466764789" duration="2802000" />
+      <workItem from="1747470691130" duration="1019000" />
+      <workItem from="1747471935095" duration="792000" />
+      <workItem from="1747479699533" duration="2395000" />
+      <workItem from="1747486618575" duration="683000" />
+      <workItem from="1747532996033" duration="1734000" />
+      <workItem from="1747535636347" duration="640000" />
+      <workItem from="1747546603006" duration="1214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="60dp"
+    android:layout_height="70dp"
+    android:orientation="horizontal"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/item_gridbg">
+
+    <TextView
+        android:id="@+id/item_grid_tv"
+        android:layout_width="60dp"
+        android:layout_height="70dp"
+        android:gravity="center"
+        android:text="歌曲"
+        android:textStyle="bold"
+        android:textSize="13sp" />
+</LinearLayout>

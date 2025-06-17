@@ -1,0 +1,173 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.musicappdemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:6:5-81
+12-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:7:5-80
+13-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+14-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:8:5-82
+14-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:8:22-79
+15    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+15-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:9:5-76
+15-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:9:22-73
+16    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+16-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:10:5-75
+16-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:10:22-72
+17    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" /> <!-- 打开相机权限 -->
+17-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:11:5-75
+17-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:11:22-72
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:12:5-65
+18-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:12:22-62
+19    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+19-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:13:5-77
+19-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:13:22-74
+20    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+20-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:14:5-77
+20-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:14:22-74
+21    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+21-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:15:5-92
+21-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:15:22-89
+22
+23    <uses-feature android:name="android.hardware.camera" />
+23-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:17:5-60
+23-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:17:19-57
+24    <uses-feature android:name="android.hardware.camera.autofocus" />
+24-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:18:5-70
+24-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:18:19-67
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] E:\Android\gradle-7.4\caches\transforms-3\a309491863f1cad1388d82071cb60f8c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.musicappdemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] E:\Android\gradle-7.4\caches\transforms-3\a309491863f1cad1388d82071cb60f8c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] E:\Android\gradle-7.4\caches\transforms-3\a309491863f1cad1388d82071cb60f8c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.musicappdemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] E:\Android\gradle-7.4\caches\transforms-3\a309491863f1cad1388d82071cb60f8c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] E:\Android\gradle-7.4\caches\transforms-3\a309491863f1cad1388d82071cb60f8c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:19:5-63:19
+33        android:allowBackup="true"
+33-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:20:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] E:\Android\gradle-7.4\caches\transforms-3\a309491863f1cad1388d82071cb60f8c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+35        android:dataExtractionRules="@xml/data_extraction_rules"
+35-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:21:9-65
+36        android:debuggable="true"
+37        android:extractNativeLibs="false"
+38        android:fullBackupContent="@xml/backup_rules"
+38-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:22:9-54
+39        android:icon="@drawable/icon_app"
+39-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:23:9-42
+40        android:label="@string/app_name"
+40-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:24:9-41
+41        android:networkSecurityConfig="@xml/network_security_config"
+41-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:25:9-69
+42        android:roundIcon="@drawable/icon_app"
+42-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:26:9-47
+43        android:supportsRtl="true"
+43-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:27:9-35
+44        android:testOnly="true"
+45        android:theme="@style/Base.Theme.MusicAPPDemo"
+45-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:28:9-55
+46        android:usesCleartextTraffic="true" >
+46-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:29:9-44
+47        <service
+47-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:32:9-36:60
+48            android:name="com.example.musicappdemo.music.MusicService"
+48-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:33:13-47
+49            android:enabled="true"
+49-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:34:13-35
+50            android:exported="false"
+50-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:35:13-37
+51            android:foregroundServiceType="mediaPlayback" />
+51-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:36:13-58
+52
+53        <activity
+53-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:38:9-40:40
+54            android:name="com.example.musicappdemo.music.MusicActivity"
+54-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:39:13-48
+55            android:exported="false" />
+55-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:40:13-37
+56        <activity
+56-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:41:9-43:40
+57            android:name="com.example.musicappdemo.activity.SingerDescActivity"
+57-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:42:13-56
+58            android:exported="false" />
+58-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:43:13-37
+59        <activity
+59-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:44:9-46:40
+60            android:name="com.example.musicappdemo.activity.RegisterActivity"
+60-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:45:13-54
+61            android:exported="false" />
+61-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:46:13-37
+62        <activity
+62-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:47:9-55:20
+63            android:name="com.example.musicappdemo.activity.LoginActivity"
+63-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:48:13-51
+64            android:exported="true" >
+64-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:49:13-36
+65            <intent-filter>
+65-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:50:13-54:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:51:17-69
+66-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:51:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:53:17-77
+68-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:53:27-74
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:56:9-59:20
+72            android:name="com.example.musicappdemo.activity.MainActivity"
+72-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:57:13-50
+73            android:exported="false" >
+73-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:58:13-37
+74        </activity>
+75        <activity
+75-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:60:9-62:40
+76            android:name="com.example.musicappdemo.activity.SearchResultActivity"
+76-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:61:13-58
+77            android:exported="false" />
+77-->D:\AndroidProject\Musicdemo\MusicAPPDemo\app\src\main\AndroidManifest.xml:62:13-37
+78
+79        <provider
+79-->[androidx.emoji2:emoji2:1.2.0] E:\Android\gradle-7.4\caches\transforms-3\70145bbbde0c2efc56f871bf5a5b1060\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.2.0] E:\Android\gradle-7.4\caches\transforms-3\70145bbbde0c2efc56f871bf5a5b1060\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+81            android:authorities="com.example.musicappdemo.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.2.0] E:\Android\gradle-7.4\caches\transforms-3\70145bbbde0c2efc56f871bf5a5b1060\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.2.0] E:\Android\gradle-7.4\caches\transforms-3\70145bbbde0c2efc56f871bf5a5b1060\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.2.0] E:\Android\gradle-7.4\caches\transforms-3\70145bbbde0c2efc56f871bf5a5b1060\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.2.0] E:\Android\gradle-7.4\caches\transforms-3\70145bbbde0c2efc56f871bf5a5b1060\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.2.0] E:\Android\gradle-7.4\caches\transforms-3\70145bbbde0c2efc56f871bf5a5b1060\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] E:\Android\gradle-7.4\caches\transforms-3\0c97545945a2f609e9103ca2ef476be4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] E:\Android\gradle-7.4\caches\transforms-3\0c97545945a2f609e9103ca2ef476be4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] E:\Android\gradle-7.4\caches\transforms-3\0c97545945a2f609e9103ca2ef476be4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+89        </provider>
+90    </application>
+91
+92</manifest>
