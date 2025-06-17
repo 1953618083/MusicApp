@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.music.mapper.ClassifyMapper">
+
+
+    <select id="selectClassifyName" resultType="com.music.entity.vo.ClassifyVO">
+        select id,
+               name,
+               create_time as createTime,
+               status
+        from m_classify
+        where name = #{name};
+    </select>
+
+    <insert id="insert">
+        insert into m_classify
+            (id, name, create_time, status)
+        values (#{id}, #{name}, #{createTime}, #{status})
+    </insert>
+
+    <delete id="delete">
+        delete
+        from m_classify
+        where id = #{id}
+    </delete>
+
+    <delete id="deleteClassifyMusicAll">
+        delete
+        from m_classify_music
+        where classify_id = #{id}
+    </delete>
+
+    <select id="selectClassifyList" resultType="com.music.entity.vo.ClassifyDataVO">
+        select A.id          as classifyId,
+               A.name        as classifyName,
+               A.create_time as createTime
+        from m_classify A
+    </select>
+
+    <select id="selectMusic" resultType="com.music.entity.vo.ClassifyMusicListVO">
+        select A.id as musicId,
+        B.classify_id as classifyId
+        from m_music A
+        inner join m_classify_music B
+        on A.id = B.music_id
+        where B.classify_id in (<foreach collection="classifyIdList" item="item" separator=",">#{item}</foreach> );
+    </select>
+
+    <select id="insertClassifyMusic">
+        insert into m_classify_music
+            (id, classify_id, music_id)
+        values (#{id}, #{classifyId}, #{musicId})
+    </select>
+
+    <select id="selectClassifyByMusic" resultType="com.music.entity.vo.MusicClassifyVO">
+        select
+        A.name as classifyName,
+        B.music_id as musicId
+        from m_classify A
+        inner join m_classify_music B
+        on A.id = B.classify_id
+        where B.music_id in (<foreach collection="musicIdList" item="item" separator=",">#{item}</foreach> );
+    </select>
+
+</mapper>

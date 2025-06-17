@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.music.mapper.UserMapper">
+    <select id="selectUserByAccount" resultType="com.music.entity.vo.UserVO">
+        select id,
+               name,
+               account,
+               password,
+               sex,
+               age,
+               avatar,
+               create_time as createTime,
+               update_time as updateTime,
+               status
+        from m_user
+        where account = #{account}
+    </select>
+
+    <insert id="insert">
+        insert into m_user (id, name, account, password, sex, age, avatar, create_time, update_time, status)
+        values (#{id}, #{name}, #{account}, #{password}, #{sex}, #{age}, #{avatar}, #{createTime}, #{updateTime},
+                #{status})
+    </insert>
+
+    <delete id="deleteUserById">
+        delete
+        from m_user
+        where id = #{id}
+    </delete>
+
+    <select id="selectUserList" resultType="com.music.entity.vo.UserVO">
+        select
+        id,
+        name,
+        account,
+        password,
+        sex,
+        age,
+        avatar,
+        create_time as createTime,
+        update_time as updateTime,
+        status
+        from m_user
+        <where>
+            <if test="account != null and account != ''">
+                and account = #{account}
+            </if>
+            <if test="name != null and name != ''">
+                and name like concat('%',#{name},'%')
+            </if>
+            <if test="sex != null and sex != ''">
+                and sex = #{sex}
+            </if>
+            and status = 1
+        </where>
+    </select>
+
+    <select id="selectUserById" resultType="com.music.entity.vo.UserVO">
+        select id,
+               name,
+               account,
+               password,
+               sex,
+               age,
+               avatar,
+               create_time as createTime,
+               update_time as updateTime,
+               status
+        from m_user
+        where id = #{userId}
+    </select>
+
+    <update id="modifyUserStatus">
+        update m_user
+        set status = #{status}
+        where id = #{userId}
+    </update>
+
+    <select id="selectUserInfo" resultType="com.music.entity.vo.UserVO">
+        select
+        id,
+        name,
+        account,
+        password,
+        sex,
+        age,
+        avatar,
+        create_time as createTime,
+        update_time as updateTime,
+        status
+        from m_user
+        where id in
+        <foreach collection="userIdList" open="(" separator="," close=")" item="item">
+            #{item}
+        </foreach>
+    </select>
+
+    <select id="selectAdminByAccount" resultType="com.music.entity.vo.UserVO">
+        select id,
+               name,
+               account,
+               password,
+               sex,
+               age,
+               avatar,
+               create_time as createTime,
+               update_time as updateTime,
+               status
+        from m_user
+        where account = #{account}
+          and status = 0
+    </select>
+
+    <select id="selectById" resultType="com.music.entity.po.MusicPO">
+        select id,
+               name,
+               url,
+               pic_url as picUrl,
+               lrc_url as lrcUrl,
+               author,
+               info,
+            year,
+            status,
+            create_time as createTime,
+            update_time as updateTime
+        from m_music
+        where id = #{id}
+    </select>
+</mapper>

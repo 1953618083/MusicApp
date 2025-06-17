@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.music.mapper.MusicMapper">
+
+
+    <insert id="insert">
+        insert into m_music (id, name, url, pic_url, lrc_url, author, info, year, status, create_time, update_time)
+        values (#{id}, #{name}, #{url}, #{picUrl}, #{lrcUrl}, #{author}, #{info}, #{year}, #{status}, #{createTime}, #{updateTime})
+    </insert>
+
+    <select id="selectMusic" resultType="com.music.entity.vo.MusicVO">
+        select id,
+               name,
+               url,
+               pic_url as picUrl,
+               lrc_url as lrcUrl,
+               author,
+               info, year, create_time as createTime, update_time as updateTime, status
+        from m_music
+        where name = #{name}
+    </select>
+
+    <delete id="deleteMusicById">
+        delete from m_music where id = #{id}
+    </delete>
+
+    <select id="selectMusicById" resultType="com.music.entity.vo.MusicVO">
+        select id,
+               name,
+               url,
+               pic_url as picUrl,
+               lrc_url as lrcUrl,
+               author,
+               info, year, create_time as createTime, update_time as updateTime, status
+        from m_music
+        where id = #{id}
+    </select>
+
+    <select id="selectMusicList" resultType="com.music.entity.vo.MusicVO">
+        select
+        A.id,
+        A.name,
+        A.url,
+        A.pic_url as picUrl,
+        A.lrc_url as lrcUrl,
+        A.author,
+        A.info,
+        A.year,
+        A.create_time as createTime,
+        A.update_time as updateTime,
+        A.status
+        from m_music A
+        <where>
+            <if test="name != null and name != ''">
+                and A.name like concat('%',#{name},'%')
+            </if>
+            <if test="year != null and year != ''">
+                and A.year = #{year}
+            </if>
+            <if test="status != null">
+                and A.status = #{status}
+            </if>
+        </where>
+    </select>
+
+    <select id="selectMusicFormClassifyId" resultType="java.lang.Long">
+        select music_id from m_classify_music where classify_id = #{classifyId}
+    </select>
+
+    <select id="selectMusicListById" resultType="com.music.entity.vo.MusicVO">
+        select id,
+               name,
+               url,
+               pic_url as picUrl,
+               lrc_url as lrcUrl,
+               author,
+               info, year, create_time as createTime, update_time as updateTime, status
+        from m_music
+        where id in (<foreach collection="musicIdList" item="item" separator=",">#{item}</foreach> );
+    </select>
+
+</mapper>

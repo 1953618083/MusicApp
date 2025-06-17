@@ -1,0 +1,86 @@
+
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÃä€8—†ì£á2
+x	java:S116"\Rename this field "albumname_hilight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÕ•8¤†ì£á2
+y	java:S116"XRename this field "lyric_hilight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â×ÚŠşÿÿÿÿ8ã„Ä£á2
+u	java:S116"TRename this field "media_mid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äØ÷Ÿıÿÿÿÿ8¤†ì£á2
+w	java:S116'"[Rename this field "songname_hilight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¾¶„8¤†ì£á2
+n	java:S116*"RRename this field "switch_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÎ§‹8¥†ì£á2
+G
+java:S1068"+Remove this unused "albumid" private field.(ÕÄ”8ÀÂ¤á2
+N
+java:S1068	",Remove this unused "albummid" private field.(‘É˜ãşÿÿÿÿ8ÀÂ¤á2
+O
+java:S1068
+"-Remove this unused "albumname" private field.(ÑÑÈùÿÿÿÿ8ÀÂ¤á2
+R
+java:S1068"5Remove this unused "albumname_hilight" private field.(ãÕ•8ÀÂ¤á2
+M
+java:S1068"+Remove this unused "alertid" private field.(‡’¾±ûÿÿÿÿ8ÁÂ¤á2
+N
+java:S1068",Remove this unused "belongCD" private field.(ùÛÉ“øÿÿÿÿ8ÁÂ¤á2
+K
+java:S1068")Remove this unused "cdIdx" private field.(†ºÚ£øÿÿÿÿ8ÁÂ¤á2
+S
+java:S1068"1Remove this unused "chinesesinger" private field.(§ä„òûÿÿÿÿ8ÁÂ¤á2
+F
+java:S1068")Remove this unused "docid" private field.(€âşº8ÁÂ¤á2
+I
+java:S1068"'Remove this unused "grp" private field.(ÁñÛ¾úÿÿÿÿ8ÁÂ¤á2
+N
+java:S1068",Remove this unused "interval" private field.(ÚˆÏîûÿÿÿÿ8ÁÂ¤á2
+G
+java:S1068"*Remove this unused "isonly" private field.(ì¤á8ÂÂ¤á2
+F
+java:S1068")Remove this unused "lyric" private field.(±êÁÃ8ÂÂ¤á2
+S
+java:S1068"1Remove this unused "lyric_hilight" private field.(Â×ÚŠşÿÿÿÿ8ÂÂ¤á2
+O
+java:S1068"-Remove this unused "media_mid" private field.(äØ÷Ÿıÿÿÿÿ8ÂÂ¤á2
+F
+java:S1068")Remove this unused "msgid" private field.(¨Ì¥ù8ÂÂ¤á2
+O
+java:S1068"-Remove this unused "newStatus" private field.(¼˜‰´øÿÿÿÿ8ÂÂ¤á2
+B
+java:S1068"&Remove this unused "nt" private field.(ı«­y8ÂÂ¤á2
+D
+java:S1068"'Remove this unused "pay" private field.(ìñ½ğ8ÂÂ¤á2
+H
+java:S1068"+Remove this unused "preview" private field.(ÄçÃ™8ÂÂ¤á2
+M
+java:S1068"+Remove this unused "pubtime" private field.(ç…Ğóÿÿÿÿÿ8ÂÂ¤á2
+E
+java:S1068"(Remove this unused "pure" private field.(ã¡ë8ÂÂ¤á2
+L
+java:S1068"*Remove this unused "singer" private field.(ì²ˆÓüÿÿÿÿ8ÂÂ¤á2
+M
+java:S1068"+Remove this unused "size128" private field.(î—»ëøÿÿÿÿ8ÂÂ¤á2
+M
+java:S1068 "+Remove this unused "size320" private field.(ˆšÿ»ıÿÿÿÿ8ÂÂ¤á2
+M
+java:S1068!"+Remove this unused "sizeape" private field.(·²Ìüÿÿÿÿ8ÂÂ¤á2
+N
+java:S1068"",Remove this unused "sizeflac" private field.(ÿ¬Šûÿÿÿÿ8ÃÂ¤á2
+M
+java:S1068#"+Remove this unused "sizeogg" private field.(¹¸¯™ùÿÿÿÿ8ÃÂ¤á2
+L
+java:S1068$"*Remove this unused "songid" private field.(©‡Í—ûÿÿÿÿ8ÃÂ¤á2
+H
+java:S1068%"+Remove this unused "songmid" private field.(éÖ¶È8ÃÂ¤á2
+I
+java:S1068&",Remove this unused "songname" private field.(÷İ®ä8ÃÂ¤á2
+Q
+java:S1068'"4Remove this unused "songname_hilight" private field.(İ¾¶„8ÃÂ¤á2
+L
+java:S1068("/Remove this unused "strMediaMid" private field.(ŒÃÈ8ÃÂ¤á2
+G
+java:S1068)"*Remove this unused "stream" private field.(ôÛÊ¨8ÃÂ¤á2
+G
+java:S1068+"%Remove this unused "t" private field.(¸š®àıÿÿÿÿ8ÃÂ¤á2
+D
+java:S1068,"'Remove this unused "tag" private field.(›ÔÍÑ8ÃÂ¤á2
+D
+java:S1068-"(Remove this unused "type" private field.(¸ÄŞJ8ÃÂ¤á2
+I
+java:S1068."'Remove this unused "ver" private field.(Ğ—÷“úÿÿÿÿ8ÃÂ¤á2
+I
+java:S1068/"'Remove this unused "vid" private field.(ËµøÍıÿÿÿÿ8ÃÂ¤á2

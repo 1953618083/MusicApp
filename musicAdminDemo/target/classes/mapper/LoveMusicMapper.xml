@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.music.mapper.LoveMusicMapper">
+
+    <insert id="insert">
+        insert into m_love_music
+            (id, music_id, user_id, create_time)
+        values (#{id}, #{musicId}, #{userId}, #{createTime})
+    </insert>
+
+    <select id="selectLoveMusic" resultType="com.music.entity.vo.LoveMusicVO">
+        select
+        id,
+        music_id as musicId,
+        user_id as userId,
+        create_time as createTime
+        from m_love_music
+        <where>
+            <if test="musicId != null">
+                and music_id = #{musicId}
+            </if>
+            <if test="userId != null">
+                and user_id = #{userId}
+            </if>
+        </where>
+    </select>
+
+        <delete id="delete">
+        delete from m_love_music where id = #{id}
+    </delete>
+
+    <select id="selectLoveMusicByUserId" resultType="com.music.entity.vo.LoveMusicListVO">
+        select
+        A.id,
+        A.music_id as musicId,
+        A.user_id as userId,
+        A.create_time as createTime,
+        B.name as musicName,
+        B.url as musicUrl,
+        B.pic_url as picUrl,
+        B.lrc_url as lrcUrl,
+        B.author as author,
+        B.year as year
+        from m_love_music A
+        inner join m_music B
+        on A.music_id = B.id
+        <where>
+            <if test="userId != null">
+                and A.user_id = #{userId}
+            </if>
+        </where>
+    </select>
+
+    <select id="selectAllLoveMusic" resultType="com.music.entity.vo.LoveMusicListVO">
+        select
+            A.id,
+            A.music_id as musicId,
+            A.user_id as userId,
+            A.create_time as createTime,
+            B.name as musicName,
+            B.url as musicUrl,
+            B.pic_url as picUrl,
+            B.lrc_url as lrcUrl,
+            B.author as author,
+            B.year as year
+        from m_love_music A
+        inner join m_music B
+        on A.music_id = B.id
+    </select>
+</mapper>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.music.mapper.LoginRecordMapper">
+
+    <insert id="insert">
+        insert into m_login_record
+            (id, login_account, create_time, status)
+        values (#{id}, #{loginAccount}, #{createTime}, #{status})
+    </insert>
+
+    <select id="selectRecordList" resultType="com.music.entity.po.LoginRecordPO">
+        select
+            id,
+            login_account as loginAccount,
+            create_time as createTime
+        from m_login_record
+        order by create_time desc
+    </select>
+
+
+</mapper>

@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MusicAPPDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- 禁用 MaterialButton 的默认背景 -->
+        <item name="materialButtonOutlinedStyle">@style/MyButtonStyle</item>
+        <item name="materialButtonStyle">@style/MyButtonStyle</item>
+    </style>
+
+    <style name="MyButtonStyle" parent="">
+        <!-- 完全透明背景，避免覆盖图片 -->
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+</resources>

@@ -1,0 +1,28 @@
+
+a	java:S112Ž"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+l
+java:S1192k"QDefine a constant instead of duplicating this literal "application/json" 3 times.(öÁýüÿÿÿÿ
+^
+java:S11928"HDefine a constant instead of duplicating this literal "account" 4 times.(·—††
+D
+java:S1066E"/Merge this if statement with the enclosing one.(Ëš$
+K
+java:S1066ª"/Merge this if statement with the enclosing one.(Ðèëïüÿÿÿÿ
+C
+java:S1604{"(Make this anonymous inner class a lambda(˜ã¯þÿÿÿÿ
+>
+java:S1604a"(Make this anonymous inner class a lambda(ÉãÃ®
+C
+java:S1604\"(Make this anonymous inner class a lambda(Ó´žŸøÿÿÿÿ
+?
+java:S1604›"(Make this anonymous inner class a lambda(¨ŠÀë
+n	java:S116*"TRename this field "btn_login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±òƒþÿÿÿÿ
+k	java:S116+"WRename this field "btn_register" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ïÊx
+i	java:S116,"URename this field "et_account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÖÙ/
+k	java:S116-"VRename this field "et_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èýÖ˜
+s
+java:S1450*"XRemove the "btn_login" field and declare it as a local variable in the relevant methods.(Ü±òƒþÿÿÿÿ
+p
+java:S1450+"[Remove the "btn_register" field and declare it as a local variable in the relevant methods.(¤ïÊx
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(ä¹¦š
